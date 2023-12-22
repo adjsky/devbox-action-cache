@@ -1,0 +1,4 @@
+{
+  "packages": ["nodejs@18.16.1", "nodePackages.pnpm@8.10.2", "redis@7.0.12"],
+  "shell": {}
+}

@@ -1,0 +1,46 @@
+{
+  "lockfile_version": "1",
+  "packages": {
+    "nodejs@18.16.1": {
+      "last_modified": "2023-07-24T21:56:31Z",
+      "resolved": "github:NixOS/nixpkgs/dfcffbd74fd6f0419370d8240e445252a39f4d10#nodejs_18",
+      "source": "devbox-search",
+      "version": "18.16.1",
+      "systems": {
+        "aarch64-darwin": {
+          "store_path": "/nix/store/mysrp5x483fypp43ra2md9n6lmm20cnb-nodejs-18.16.1"
+        },
+        "aarch64-linux": {
+          "store_path": "/nix/store/pb6a5bb4z4i8y8r85kmxqq3q7h0si9pw-nodejs-18.16.1"
+        },
+        "x86_64-darwin": {
+          "store_path": "/nix/store/rs8fs4spd1xnaspc2dq15i7xa5j8bynm-nodejs-18.16.1"
+        },
+        "x86_64-linux": {
+          "store_path": "/nix/store/y85811fai07h16xqwh99wnql0cwgb17c-nodejs-18.16.1"
+        }
+      }
+    },
+    "redis@7.0.12": {
+      "last_modified": "2023-09-06T20:35:33Z",
+      "plugin_version": "0.0.2",
+      "resolved": "github:NixOS/nixpkgs/efd23a1c9ae8c574e2ca923c2b2dc336797f4cc4#redis",
+      "source": "devbox-search",
+      "version": "7.0.12",
+      "systems": {
+        "aarch64-darwin": {
+          "store_path": "/nix/store/1y2waq6nrnl313kdmgb4a733wzs4mx8j-redis-7.0.12"
+        },
+        "aarch64-linux": {
+          "store_path": "/nix/store/chc0xygsqbyl66nhlyg0768fbn4aqkww-redis-7.0.12"
+        },
+        "x86_64-darwin": {
+          "store_path": "/nix/store/bksps5ac189aa85k6ix2l8fpp35yazm0-redis-7.0.12"
+        },
+        "x86_64-linux": {
+          "store_path": "/nix/store/iclqkw354zkv3gsyvv4zicy2xap0zvj2-redis-7.0.12"
+        }
+      }
+    }
+  }
+}
