@@ -1,4 +1,4 @@
 {
-  "packages": ["nodejs@18.16.1", "nodePackages.pnpm@8.10.2", "redis@7.0.12"],
+  "packages": ["nodejs@18.16.1", "redis@7.0.12", "nodePackages.pnpm@8.10.2"],
   "shell": {}
 }
